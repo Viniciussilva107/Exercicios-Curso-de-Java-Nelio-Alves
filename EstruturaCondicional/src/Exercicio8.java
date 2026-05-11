@@ -8,7 +8,6 @@ public class Exercicio8 {
 
         float salario;
         float imposto = 0;
-        float valorExcede = 0;
 
         System.out.print("Digite seu salario: ");
         salario = sc.nextFloat();
